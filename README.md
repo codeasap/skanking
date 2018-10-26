@@ -1,0 +1,2 @@
+# skanking
+Svako dobro
